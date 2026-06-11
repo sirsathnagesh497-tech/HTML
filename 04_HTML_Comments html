@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Comments</title>
+</head>
+<body>
+    <!--Main Heading-->
+    <h1>welcome to my website</h1>
+    <!--paragraph section-->
+    <p>Thish is a paragraph.</p>
+</body>
+</html>
